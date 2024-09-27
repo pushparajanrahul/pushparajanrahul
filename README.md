@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pushparajanrahul
-- 👀 I’m interested in applying Machine Learning algorithms to enhance the visibility and access over existing hard mapped functions of various domains like Automation, Robotics, Image analytics including different Industries like Manufacturing, Healthcare,  etc.
+- 👀 I’m interested in applying Machine Learning algorithms to enhance the visibility and access over existing hard mapped functions of various domains like Automation, Robotics, Image analytics within different Industries like Manufacturing, Healthcare,  Space Research and you name it :).
 - 🌱 I’m currently learning MLOps, LLM-RAG, Open Knowledge Network, GNN, NLP, RNN, CNN !!!
 - 💞️ I’m looking to collaborate on projects that excited me and align with my field of inerest !!
 - 📫 How to reach me : pushparajan.rahul@gmail.com is where you can find me !!!
