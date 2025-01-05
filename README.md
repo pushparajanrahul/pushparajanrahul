@@ -27,6 +27,8 @@ I'm always open to new opportunities and a good chat ☕. Feel free to connect w
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-%234581C3?style=flat-square&logo=neo4j&logoColor=white)
+
 
 ### Languages++
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
