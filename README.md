@@ -68,8 +68,8 @@ I'm always open to new opportunities and a good chat ☕. Feel free to connect w
 # 📊 Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=pushparajanrahul&theme=onestar&row=1&column=5)](https://github.com/pushparajanrahul/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=pushparajanrahul&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
-<figure><embed src="https://wakatime.com/share/@dff22924-bba2-4ab7-ad3d-aa5ce390fda2/94dba353-276d-4f0f-a0d6-b48a08cdeef0.svg"></embed></figure>
-<img src="https://wakatime.com/share/@dff22924-bba2-4ab7-ad3d-aa5ce390fda2/94dba353-276d-4f0f-a0d6-b48a08cdeef0.svg" alt="Logo" width="470" height="300">
+<figure><embed src="https://wakatime.com/share/@dff22924-bba2-4ab7-ad3d-aa5ce390fda2/1d9d6741-0e86-43d1-a8e1-c119ac390f1a.svg"></embed></figure>
+<img src="https://wakatime.com/share/@dff22924-bba2-4ab7-ad3d-aa5ce390fda2/1d9d6741-0e86-43d1-a8e1-c119ac390f1a.svg" alt="Logo" width="470" height="300">
 <img src="https://wakatime.com/share/@pushparajanrahul/acef0074-3448-4724-9ec0-eb343127c472.svg" alt="Logo" width="470" height="300">
 
 # 🔗 Connect With Me
