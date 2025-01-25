@@ -8,9 +8,9 @@ Hey there, I'm Rahul! 👋 A Machine Learning Engineer with a strong passion for
 
 Before diving into ML, I was deep into Automation and Robotics. I graduated with an MS in Robotics and Autonomous Systems from Arizona State University, where I worked under Prof. Farhad Ameri and Prof. Hynwoong Ko at the [Semantic Computing Lab](https://labs.engineering.asu.edu/semantics). My research? Developing an Auto Image Labelling pipeline with VLMs like Llama 3.2 and OpenAI GPT-4o-mini, while building a Knowledge Graph Database using Neo4j to link manufacturers' capabilities across the US.
 
-Before that, I worked as an Automation Lab Assistant at ASU with Prof. Jerry Gintz, integrating industrial robots with PLC systems for assembly line automation. I also gained tons of experience as an Automation and Controls Engineer at [Schneider Electric](https://se.com/), where I worked on feedback systems and semi-supervised models to optimize process variables.
+Before that, I worked as an Automation Lab Assistant at ASU with Prof. Jerry Gintz, integrating Industrial Robots with Vision Systems where we utilized a UR3e robot to learn to sort tiny blocks using DQN-Algorithm by training for around 1000 episodes. I also gained tons of experience as Senior Engineer at [Schneider Electric](https://se.com/), where I worked on Data Scaling at source, including ETL pipelines, using Apache Kafka, migrating 1M+ IoT signal datapoints and alert messages to AWS S3 buckets to perform signal audit and analysis, feature engineering IoT signals including signal pre-processing steps, Model deployment in AWS Sagemaker.
 
-I'm on a mission to blend my background in robotics, automation, and neural architectures to make the most of machine learning. It's been a wild ride so far, and I’m excited for the future.
+I'm on a mission to blend my background in robotics, automation, building ETL architetures and neural architectures to make the most into machine learning. It's been a wild ride so far, and I’m excited for the future.
 
 I'm always open to new opportunities and a good chat ☕. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pushparajanrahul/) or reach out at [pushparajan.rahul@gmail.com](mailto:pushparajan.rahul@gmail.com).
 
